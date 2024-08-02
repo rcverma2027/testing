@@ -1,16 +1,16 @@
 ---
 title: 'Dynamic Routing and Static Generation'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/OIG4.6EjYcPpnEjj6isqMLmfP.jpg'
+coverImage: '/assets/blog/dynamic-routing/WhatsApp123.jpeg'
 published_time: '2024-08-02T05:35:07.322Z'
 modified_time: '2024-08-02T05:35:07.322Z'
 author:
   name: JJ Kasper
-  picture: '/assets/blog/dynamic-routing/OIG4.6EjYcPpnEjj6isqMLmfP.jpg'
+  picture: '/assets/blog/dynamic-routing/WhatsApp123.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/WhatsApp Image 2024-08-02 at 4.31.00 PM.jpeg'
+  url: '/assets/blog/dynamic-routing/WhatsApp123.jpeg'
 featuredImage:
-  url: '/assets/blog/dynamic-routing/OIG4.6EjYcPpnEjj6isqMLmfP.jpg'
+  url: '/assets/blog/dynamic-routing/WhatsApp123.jpeg'
   altText: 'My Cover Page'
 redirectInfo:
   url: 'https://chimup.com'
