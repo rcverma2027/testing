@@ -8,7 +8,7 @@ author:
   name: JJ Kasper
   picture: '/assets/blog/dynamic-routing/cover.jpg'
 ogImage:
-  url: 'https://cdn.fbsbx.com/v/t59.2708-21/453264750_830789902364450_2907867740531105507_n.ico/32d4dbed-b8bc-4948-9d07-17c477be1c1f.ico?_nc_cat=103&ccb=1-7&_nc_sid=2b0e22&_nc_eui2=AeHNXK0ac7w9ydOfJGZZsJ47TWxtGbJ-u_tNbG0Zsn67-9Pr4j1ub9lGExPurMDgY7mFSk465MKJ_hk4bQeSRDaP&_nc_ohc=FwPc-N3P74AQ7kNvgHHplUC&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QGtDQ6lHgt8OG4ByrWjy_MgueYiYWWI6KNz78oDoO41vQ&oe=66AE8C5F&dl=1'
+  url: 'https://scontent.xx.fbcdn.net/v/t1.15752-9/451482757_1021719572916611_7849392296464068412_n.jpg?stp=dst-jpg_s370x247&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHh94p_Hh59PtGc0pFr7D0t88rxiQc3AWPzyvGJBzcBY0hq3kCNRsScNFwwph4Gwu54Nhy-zOMdRWGZPwuYrjhn&_nc_ohc=Hk-uGrX8UngQ7kNvgF5Ctt4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGgZQcWacVcIp-3gAMrLgmojAE9NnkGDuaCxLMhAbbX0A&oe=66D44486'
 featuredImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
   altText: 'Play Now'
