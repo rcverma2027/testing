@@ -8,7 +8,7 @@ author:
   name: JJ Kasper
   picture: '/assets/blog/dynamic-routing/OIG4.6EjYcPpnEjj6isqMLmfP.jpg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/OIG4.6EjYcPpnEjj6isqMLmfP.jpg'
+  url: '/assets/blog/dynamic-routing/WhatsApp Image 2024-08-02 at 4.31.00 PM.jpeg'
 featuredImage:
   url: '/assets/blog/dynamic-routing/OIG4.6EjYcPpnEjj6isqMLmfP.jpg'
   altText: 'My Cover Page'
