@@ -6,11 +6,11 @@ published_time: '2024-08-02T05:35:07.322Z'
 modified_time: '2024-08-02T05:35:07.322Z'
 author:
   name: JJ Kasper
-  picture: '/assets/blog/dynamic-routing/WhatsApp123.jpeg'
+  picture: 'https://scontent.xx.fbcdn.net/v/t1.15752-9/451482757_1021719572916611_7849392296464068412_n.jpg?stp=dst-jpg_s370x247&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHh94p_Hh59PtGc0pFr7D0t88rxiQc3AWPzyvGJBzcBY0hq3kCNRsScNFwwph4Gwu54Nhy-zOMdRWGZPwuYrjhn&_nc_ohc=Hk-uGrX8UngQ7kNvgF5Ctt4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGgZQcWacVcIp-3gAMrLgmojAE9NnkGDuaCxLMhAbbX0A&oe=66D44486'
 ogImage:
-  url: '/assets/blog/dynamic-routing/WhatsApp123.jpeg'
+  url: 'https://scontent.xx.fbcdn.net/v/t1.15752-9/451482757_1021719572916611_7849392296464068412_n.jpg?stp=dst-jpg_s370x247&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHh94p_Hh59PtGc0pFr7D0t88rxiQc3AWPzyvGJBzcBY0hq3kCNRsScNFwwph4Gwu54Nhy-zOMdRWGZPwuYrjhn&_nc_ohc=Hk-uGrX8UngQ7kNvgF5Ctt4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGgZQcWacVcIp-3gAMrLgmojAE9NnkGDuaCxLMhAbbX0A&oe=66D44486'
 featuredImage:
-  url: '/assets/blog/dynamic-routing/WhatsApp123.jpeg'
+  url: 'https://scontent.xx.fbcdn.net/v/t1.15752-9/451482757_1021719572916611_7849392296464068412_n.jpg?stp=dst-jpg_s370x247&_nc_cat=110&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHh94p_Hh59PtGc0pFr7D0t88rxiQc3AWPzyvGJBzcBY0hq3kCNRsScNFwwph4Gwu54Nhy-zOMdRWGZPwuYrjhn&_nc_ohc=Hk-uGrX8UngQ7kNvgF5Ctt4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGgZQcWacVcIp-3gAMrLgmojAE9NnkGDuaCxLMhAbbX0A&oe=66D44486'
   altText: 'My Cover Page'
 redirectInfo:
   url: 'https://chimup.com'
