@@ -13,7 +13,7 @@ featuredImage:
   url: '/assets/blog/hello-world/cover.jpg'
   altText: 'My Cover Page'
 redirectInfo:
-  url: 'https://youtube.com'
+  url: 'https://chimup.com'
   text: 'this is my link, you can click on it and it will work'
 ---
 
