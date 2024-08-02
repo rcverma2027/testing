@@ -8,7 +8,7 @@ author:
   name: JJ Kasper
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/dynamic-routing/OIG4.6EjYcPpnEjj6isqMLmfP.jpg'
 featuredImage:
   url: '/assets/blog/hello-world/cover.jpg'
   altText: 'My Cover Page'
